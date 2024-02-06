@@ -1,0 +1,41 @@
+nav{
+    display: flex;
+    border: 2px solid gainsboro;
+align-items: center;
+justify-content: center;
+gap: 20px;
+background-color: whitesmoke;
+
+}
+nav a{
+    text-decoration: none;
+    padding: 15px;
+    border: 2px solid black;
+    width: 250px;
+    text-align: center;
+    margin: 5px auto;
+    border-radius: 5px;
+    color: black;
+}
+.img img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+ button #stop{
+    color: beige;
+    background-color: crimson;
+    border-radius: 5px solid white;
+    justify-content: right;
+}
+h1{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
